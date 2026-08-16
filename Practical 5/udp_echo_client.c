@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include<netinet/in.h>
 
-#define PORT 10077
+#define PORT 10074
 #define BUF_SIZE 1024
 
 int main() {
